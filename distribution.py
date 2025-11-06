@@ -3,3 +3,4 @@ print("Late night shift before major project delivery at work - fingers crossed!
 print("We win!")
 print("All energies directed towards 9 to 5 but keen to pick up here soon - wait for me!")
 print("Experimental Labs 1 - Primed and Ready")
+print("The paint looks amazing")
